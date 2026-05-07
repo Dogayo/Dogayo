@@ -32,7 +32,7 @@ Dart & Flutter:
   <a href="https://github.com/">
     <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
   </a>&nbsp;
-</div>
+</div>  
 
 ### Contact with me
 <div class="image-row">
