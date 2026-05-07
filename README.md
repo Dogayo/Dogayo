@@ -8,12 +8,12 @@ Gradually, I came to mobile and cross-platform development on Flutter.
 
 ### Literature
 Common:
-- "The Clean Coder: A Code of Conduct for Professional Programmers", Robert Martin;
-- "Clean Architecture", Robert C. Martin;
-- "Computer Science Distilled: Learn the Art of Solving Computational Problems", Wladston Ferreira Filho;
+- "The Clean Coder: A Code of Conduct for Professional Programmers", Robert Martin
+- "Clean Architecture", Robert C. Martin
+- "Computer Science Distilled: Learn the Art of Solving Computational Problems", Wladston Ferreira Filho
 
 Dart & Flutter:
-- "Quick start as a Flutter developer", Andrey Aleev;
+- "Quick start as a Flutter developer", Andrey Aleev
 
 ### Technologies
 <div class="image-row">
